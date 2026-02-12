@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/energy-monitoring-and-analytics-platform-218853-218874/energy_monitor_database"
+}
